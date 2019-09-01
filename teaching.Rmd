@@ -1,0 +1,40 @@
+---
+title: "Teaching"
+---
+
+<br> 
+
+#### Weill Cornell Medicine, New York, NY 
+
+Fall 2019: Data Science I 
+
+<br> 
+
+#### Columbia University, New York, NY
+
+Fall 2018: Longitudinal Data Analysis
+
+<br> 
+
+#### Coursera
+
+2016 - Present: [Neurohacking with R](https://www.coursera.org/learn/neurohacking)
+
+
+<br> 
+
+#### American University of Armenia, Yerevan, Armenia 
+
+Fall 2015: Inferential Biostatistics
+
+<br> 
+
+####  Workshops
+2019: “Introduction to Survival Analysis ”. New York R Conference, New York, NY.
+
+2019: [“Neuroconductor for Structural Magnetic Resonance Imaging Processing & Analysis ”](https://github.com/emsweene/Neuroconductor_Tutorial). New York City R/ Bioconductor for Genomics, New York, NY.
+
+2015: “A Tutorial for Multisequence Clinical Structural Brain MRI ”. 2015 Eastern North America Region of the International Biometric Society Meeting, Miami, FL.
+
+2013: “MIPAV + R for analysis of structural MRI data ”. SAMSI Neuroimaging Data Analysis Workshop, Multisequence Structural MRI Working Group, Research Triangle Park, NC.
+

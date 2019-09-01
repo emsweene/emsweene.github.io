@@ -1,13 +1,21 @@
-name: "Yay internet!"
+name: "Elizabeth Sweeney"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Software"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<ems4003@med.cornell.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/emsweene/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/emsweene57
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/elizabeth-sweeney-a68b9739/
 output:
   html_document

@@ -1,0 +1,11 @@
+---
+title: "Software"
+---
+
+<br> 
+
+#### R Packages 
+
+[oasis](https://cran.r-project.org/web/packages/oasis/index.html) package for segmenting multiple sclerosis lesions on strucutral MRI at a single time point 
+
+[sublime](https://cran.r-project.org/web/packages/sublime/index.html) package for segmenting incident multiple sclerosis lesions on strucutral MRI from two time points

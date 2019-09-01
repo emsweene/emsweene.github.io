@@ -12,7 +12,7 @@
 
 
 
-<title>Elizabeth Sweeney, ScM, PhD</title>
+<title>Research</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -318,15 +318,23 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Elizabeth Sweeney, ScM, PhD</h1>
+<h1 class="title toc-ignore">Research</h1>
 
 </div>
 
 
-<p><img src="images/ems.jpg" width="30%" style="display: block; margin: auto;" /></p>
-<p>I am an Assistant Professor in the <a href="http://hpr.weill.cornell.edu/divisions/biostatistics/">Biostatsitics and Epidemiology Division</a> in the <a href="http://hpr.weill.cornell.edu">Healthcare Policy and Research Department</a> at <a href="https://weill.cornell.edu">Weill Cornell Medicine</a>. My main area of expertise is working on the statistical analysis of structural magnetic resonance imaging (sMRI) data, with a focus on the disease area of Multiple Sclerosis (MS). The problems I have worked on span many areas, including image segmentation, image normalization and harmonization, cross-sectional and longitudinal modeling, as well as software development. The statistical techniques used to solve these problems include classification, machine learning, longitudinal data analysis, and functional data analysis techniques. I did my PhD and ScM in <a href="https://www.jhsph.edu/departments/biostatistics/index.html">Biostatsitics at the Johns Hopkins Bloomberg School of Public Health</a> under the advisment of <a href="http://ciprianstats.org/home">Dr. Ciprian Crainiceanu</a> at Johns Hopkins and <a href="https://www.med.upenn.edu/pennsive/personnel.html">Dr. Taki Shinohara</a> at the University of Pennsylvania. A video describing some of the work in sMRI research from my PhD can be found <a href="https://www.youtube.com/watch?v=mzzhd30LiPk&amp;feature=plcp">here</a>. Before coming to Weill Cornell, I worked in industry at the healthcare tech companies <a href="https://flatiron.com">Flatiron Health</a> and <a href="https://www.coverahealth.com">Covera Health</a> doing electronic medical records (EMR) research.</p>
-<p>I am an avid R enthusiast! I serve on the board of the meetup group <a href="http://www.rladiesnyc.org/">R Ladies NYC</a>. A video of my 2018 R Ladies lightning talk on the reticulate R package can be <a href="http://www.rladiesnyc.org/post/lightning-talks-roundup/">here</a> (Note: I now know Python so I don’t need to use the reticulate package as much!) A video of my 2019 NYC-R talk on doing neruorimaging analysis in R can be found <a href="https://www.youtube.com/watch?v=9HkEq01nrco">here</a>.</p>
-<p>My full CV is available <a href="files/Sweeney_CV.pdf">here</a>.</p>
+<p><br></p>
+<div id="longitudinal-smri-in-ms-lesions" class="section level4">
+<h4>Longitudinal sMRI in MS Lesions</h4>
+<p>Brain structural magnetic resonance imaging (sMRI) is a tool that uses a magnetic field to produce detailed images of the brain. Patients with multiple sclerosis (MS) have lesions in their brains which are visible on sMRI. MS lesions formation is a complex process involving inflammation, tissue damage, and tissue repair — all of which are visible on sMRI and potentially modifiable by pharmacological therapy. We developed a piepline to extract longitudinal information from MS lesions in multisequence sMRI. We then developed a biomarker of lesion repair and explored the biomarker’s association to clinical information, such as the use of steroids and disease-modifying treatment. The picture below shows the longitudinal information extracted from one sequence of structural MRI, the fluid attenuated inversion recovery (FLAIR) image. A publication of this work can be found <a href="https://www.sciencedirect.com/science/article/pii/S2213158215300139">here</a>.</p>
+<p><img src="images/longitudinal_mri.png" width="70%" style="display: block; margin: auto;" /></p>
+<p><br></p>
+</div>
+<div id="ms-lesions-segmentation" class="section level4">
+<h4>MS Lesions Segmentation</h4>
+<p>Magnetic resonance imaging (MRI) can be used to detect lesions in the brains of multiple sclerosis (MS) patients and is essential for diagnosing the disease and monitoring its progression. In practice, lesion load is often quantified by either manual or semi-automated segmentation of MRI, which is time-consuming, costly, and associated with large inter- and intra-observer variability. We developed the method OASIS for automated lesion segmentation at a single time point (<a href="https://www.sciencedirect.com/science/article/pii/S2213158213000235#f0005">publication</a>) and SuBLIME for segmentation of incident MS lesions (<a href="https://www.sciencedirect.com/science/article/pii/S2213158213000235#f0005">publication</a>). We also performed a comparison of different machine learning algorithm for the problem of MS lesion segmentation (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095753">publication</a>).</p>
+<p><img src="images/oasis.png" width="50%" style="display: block; margin: auto;" /></p>
+</div>
 
 
 
