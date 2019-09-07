@@ -4,6 +4,16 @@ title: "Software"
 
 <br> 
 
+
+```{r, out.width = '60%', fig.align="center", echo = FALSE}
+library(knitr)
+include_graphics("images/brooke_drawing.png")
+```
+     
+|                                               Drawing by [Brooke Watson](https://blog.brooke.science/about/) at the 2019 NYR conference. 
+
+<br> 
+
 #### R Packages 
 
 [oasis](https://cran.r-project.org/web/packages/oasis/index.html) package for segmenting multiple sclerosis lesions on strucutral MRI at a single time point 
